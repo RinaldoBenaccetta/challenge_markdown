@@ -2,40 +2,37 @@
 
 *Yes, we can!*
 
-A photo of yourself. Keep it professional!
+<img src="img/profil-s.webp" alt="The most beautiful weblink image!" width=150px;/>
 
-## Me, in one sentence (smaller header)
 
-Create a table with the following structure:
+## A bald guy with beard playing with web development.
 
-|Header1 |Header2  | Header3|
---- | --- | ---|
-|data1|data2|data3|
-|data11|data12|data13|
 
-Birthday: dd/mm
-Gender: ?
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+|||
+--- | --- |
+|Birthday|25/09|
+|Gender|M|
+|Favorite color|red|
+|Favorite food|Pasta|
+|Pinneapple on pizza|&#9744;|
 
-Hobbies (smaller header)
-This should contain a bullet list of your hobbies.
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
 
-You can always count on me when (smaller header)
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+## Hobbies
 
-A funny story (smaller header)
-Tell a short funny story about your life.
++ Cooking
++ Design
++ Cinema
+    + S.F.
+    + Gangster films
+    + Coen's brothers films
 
-TL;DR (even smaller header, under funny story)
-Summerise your funny story in one short sentence.
 
-At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
+## You can always count on me when
+You need help on Javascript, PHP or drink a beer.
 
-The links should have the following structure:
+## A funny story
+When i'm drunk at a party, I go tho sleep in a random bed. No bed owner managed to dislodge me.
 
-<< previous || YOUR NAME || next >>
+### Some call me the cuckoo
+
+[<< previous](https://github.com/Moustito/challenge-markdown/tree/main/README.md) || Rinaldo Benaccetta || [next >>](https://github.com/BenoitBlaevoet/challenge-markdown)
