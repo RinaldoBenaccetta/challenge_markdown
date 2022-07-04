@@ -35,4 +35,4 @@ When i'm drunk at a party, I go tho sleep in a random bed. No bed owner managed 
 
 ### Some call me the cuckoo
 
-[<< previous](https://github.com/Moustito/challenge-markdown/tree/main/README.md) || Rinaldo Benaccetta || [next >>](https://github.com/BenoitBlaevoet/challenge-markdown)
+[<< previous](https://github.com/Moustito/challenge-markdown/tree/main/README.md) || Rinaldo Benaccetta || [next >>](https://github.com/GubamO/markdownbaudson.git)
