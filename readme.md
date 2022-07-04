@@ -1,10 +1,17 @@
-Your name (big header)
-In italics an inspirational quote
+# Rinaldo Benaccetta
+
+*Yes, we can!*
+
 A photo of yourself. Keep it professional!
 
-Me, in one sentence (smaller header)
+## Me, in one sentence (smaller header)
 
 Create a table with the following structure:
+
+|Header1 |Header2  | Header3|
+--- | --- | ---|
+|data1|data2|data3|
+|data11|data12|data13|
 
 Birthday: dd/mm
 Gender: ?
